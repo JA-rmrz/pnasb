@@ -1,0 +1,14 @@
+body 
+{
+    background-color: darkgray;
+    margin-top: 2.5%;
+}
+a
+{
+    word-spacing: -5px;
+    line-height: .4;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+    text-shadow: -1px -1px gray;
+    font-size: 300%;
+}
